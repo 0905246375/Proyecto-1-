@@ -1,0 +1,13 @@
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\bin\Debug\Proyecto 1 final Mistral.exe.config
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\bin\Debug\Proyecto 1 final Mistral.exe
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\bin\Debug\Proyecto 1 final Mistral.pdb
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto 1 final Mistral.csproj.AssemblyReference.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto_1_final_Mistral.Form1.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto_1_final_Mistral.Properties.Resources.resources
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto 1 final Mistral.csproj.GenerateResource.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto 1 final Mistral.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto.5B869FDE.Up2Date
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto 1 final Mistral.exe
+C:\Users\tahly\Desktop\Nueva carpeta\Proyecto 1 final Mistral\obj\Debug\Proyecto 1 final Mistral.pdb
